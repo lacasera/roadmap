@@ -20,7 +20,6 @@ Roadmap to becoming a ninja
  - [ ] Graphql
 
 ### Design Patterns
- - [ ] OOP
  - [ ] Functional Programming
  - [ ] Solid Principles
 
@@ -28,3 +27,8 @@ Roadmap to becoming a ninja
 - [ ] Docker
 - [ ] AWS
 - [ ] kubernetes
+
+### MISC
+- [ ] System Design
+- [ ] Data structures and Algorithms
+- [ ] Agile Methodologies
