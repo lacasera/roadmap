@@ -19,10 +19,10 @@ Roadmap to becoming a ninja
  - [ ] React 
  - [ ] Graphql
 
-### Design Principles
+### Design Patterns
  - [ ] OOP
  - [ ] Functional Programming
- - [ ] Solid Patterns
+ - [ ] Solid Principles
 
 ### OOPS
 - [ ] Docker
