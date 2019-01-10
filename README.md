@@ -18,6 +18,7 @@ Roadmap to becoming a ninja
  - [ ] Saas - read Better CSS with Sass by Cole Henley
  - [ ] React 
  - [ ] Graphql
+ - [ ] Vuejs
 
 ### Design Patterns
  - [ ] Functional Programming
