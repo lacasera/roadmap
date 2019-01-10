@@ -23,3 +23,8 @@ Roadmap to becoming a ninja
  - [ ] OOP
  - [ ] Functional Programming
  - [ ] Solid Patterns
+
+### OOPS
+- [ ] Docker
+- [ ] AWS
+- [ ] kubernetes
