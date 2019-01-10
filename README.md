@@ -24,7 +24,7 @@ Roadmap to becoming a ninja
  - [ ] Functional Programming
  - [ ] Solid Principles
 
-### OOPS
+### DEV OPS
 - [ ] Docker
 - [ ] AWS
 - [ ] kubernetes
