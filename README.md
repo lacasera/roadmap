@@ -18,6 +18,7 @@ Roadmap to becoming a ninja
  - [ ] Saas - read Better CSS with Sass by Cole Henley
  - [ ] React 
  - [ ] Graphql
+    - [ ] [Road to GraphQL] (https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
  - [ ] Vuejs
 
 ### Design Patterns
