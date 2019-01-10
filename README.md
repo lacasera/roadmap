@@ -17,8 +17,7 @@ Roadmap to becoming a ninja
  - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
  - [ ] Saas - read Better CSS with Sass by Cole Henley
  - [ ] React 
- - [ ] Graphql
-    - [ ] [Road to GraphQL] (https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+ - [ ] Graphql [Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
  - [ ] Vuejs
 
 ### Design Patterns
