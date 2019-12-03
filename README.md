@@ -10,7 +10,7 @@ Roadmap to becoming a ninja
  - [ ] Tools 
  
 ##### Laravel
- - [ ] Testing - read (laravel testing decoded by Jeffery Way)
+ - [x] Testing - read (laravel testing decoded by Jeffery Way)
  - [x] Write laravel certification exams
  
 ### Frontend
