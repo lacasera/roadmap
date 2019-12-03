@@ -11,7 +11,7 @@ Roadmap to becoming a ninja
  
 ##### Laravel
  - [ ] Testing - read (laravel testing decoded by Jeffery Way)
- - [ ] Write laravel certification exams
+ - [x] Write laravel certification exams
  
 ### Frontend
  - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
