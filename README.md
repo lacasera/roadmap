@@ -22,11 +22,11 @@ Roadmap to becoming a ninja
 
 ### Design Patterns
  - [ ] Functional Programming
- - [ ] Solid Principles
+ - [x] Solid Principles
 
 ### DEV OPS
 - [ ] Docker
-- [ ] AWS
+- [ ] AWS write AWS Developer Associate certification by May 2020
 - [ ] kubernetes
 
 ### MISC
